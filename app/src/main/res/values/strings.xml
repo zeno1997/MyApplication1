@@ -1,4 +1,12 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="Send">Send</string>
+    <string name="app_name">Các kiểu lập trinh sự kiện</string>
+    <string name="Send">Tổng 2 số</string>
+    <string name="soa">Số a:</string>
+    <string name="sob">Số b:</string>
+    <string name="kq"></string>
+    <string name="Send1">Hiệu 2 số</string>
+    <string name="Send2">Tích 2 số</string>
+    <string name="Send3">Ước chung lớn nhất</string>
+    <string name="Send4">Thoát chương trình</string>
+
 </resources>

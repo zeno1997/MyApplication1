@@ -7,21 +7,40 @@
     android:orientation="vertical" >
     <EditText
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
-        <!--android:hint="@string/to" />-->
+        android:layout_height="wrap_content"
+        android:text="@string/soa" />
     <EditText
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"/>
-        <!--android:hint="@string/subject" />-->
+        android:layout_height="wrap_content"
+        android:text="@string/sob" />
     <EditText
         android:layout_width="match_parent"
-        android:layout_height="0dp"
-        android:layout_weight="1"
-        android:gravity="top" />
-        <!--android:hint="@string/message" />-->
+        android:layout_height="wrap_content"
+        android:text="@string/kq" />
+
     <Button
-        android:layout_width="100dp"
+        android:layout_width="350dp"
         android:layout_height="wrap_content"
         android:layout_gravity="right"
         android:text="@string/Send" />
+    <Button
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:text="@string/Send1" />
+    <Button
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:text="@string/Send2" />
+    <Button
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:text="@string/Send3" />
+    <Button
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:text="@string/Send4" />
 </LinearLayout>
